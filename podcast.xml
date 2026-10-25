@@ -12,6 +12,11 @@
     <copyright>© 2026 大西一輝</copyright>
     <description>ハリウッドスターを目指す京大院生、大西一輝のポッドキャスト（愛称「オオニシカズキのレディオ」）。個人で配信しています。友達と二人で、ゆるく、でも本気で、世界に向かう途中の話をしています。居酒屋で許せないこと、大学の謎ルール、旅先で起きた事件、そして「ポッドキャストで世界を取るって何？」まで。成功も失敗も、全部ここで話します。</description>
     <itunes:author>大西一輝</itunes:author>
+    <managingEditor>kyohari.radio@gmail.com (大西一輝)</managingEditor>
+    <itunes:owner>
+      <itunes:name>大西一輝</itunes:name>
+      <itunes:email>kyohari.radio@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://kazuki-onishi.github.io/kyohari/cover.jpg"/>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Personal Journals"/>
