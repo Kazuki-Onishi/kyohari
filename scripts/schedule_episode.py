@@ -24,7 +24,7 @@ art = os.path.join(ROOT, 'scripts', 'art800.jpg')
 out = os.path.join(ROOT, 'episodes', f'ep{a.episode}.mp3')
 subprocess.run(['ffmpeg','-y','-hide_banner','-loglevel','error','-i',a.master,'-i',art,'-map','0:a','-map','1:v',
     '-ac','1','-ar','44100','-c:a','libmp3lame','-b:a','96k','-c:v','mjpeg','-disposition:v','attached_pic','-id3v2_version','3',
-    '-metadata',f'title={a.title}','-metadata','artist=大西一輝','-metadata','album=京大院生、ハリウッドスターへの道',
+    '-metadata',f'title={a.title}','-metadata','artist=キョウハリ','-metadata','album=京大院生、ハリウッドスターへの道',
     '-metadata',f'track={a.episode}','-metadata',f'date={at.year}',out], check=True)
 dur = float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',out],capture_output=True,text=True).stdout)
 desc = open(a.desc, encoding='utf-8').read().strip()
