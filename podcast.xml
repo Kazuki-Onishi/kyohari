@@ -9,12 +9,12 @@
     <image><url>https://kazuki-onishi.github.io/kyohari/cover_v2.jpg</url><title>京大院生、ハリウッドスターへの道</title><link>https://kazuki-onishi.github.io/kyohari/</link></image>
     <atom:link href="https://kazuki-onishi.github.io/kyohari/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
-    <copyright>© 2026 キョウハリ</copyright>
-    <description>ハリウッドスターを目指す京大院生のポッドキャスト、通称「キョウハリ」。個人で配信しています。友達と二人で、ゆるく、でも本気で、世界に向かう途中の話をしています。居酒屋で許せないこと、大学の謎ルール、旅先で起きた事件、そして「ポッドキャストで世界を取るって何？」まで。成功も失敗も、全部ここで話します。</description>
-    <itunes:author>キョウハリ</itunes:author>
-    <managingEditor>kyohari.radio@gmail.com (キョウハリ)</managingEditor>
+    <copyright>© 2026 おおにしかずき</copyright>
+    <description>ハリウッドスターを目指す京大院生、おおにしかずきのポッドキャスト（通称「キョウハリ」）。個人で配信しています。友達と二人で、ゆるく、でも本気で、世界に向かう途中の話をしています。居酒屋で許せないこと、大学の謎ルール、旅先で起きた事件、そして「ポッドキャストで世界を取るって何？」まで。成功も失敗も、全部ここで話します。</description>
+    <itunes:author>おおにしかずき</itunes:author>
+    <managingEditor>kyohari.radio@gmail.com (おおにしかずき)</managingEditor>
     <itunes:owner>
-      <itunes:name>キョウハリ</itunes:name>
+      <itunes:name>おおにしかずき</itunes:name>
       <itunes:email>kyohari.radio@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://kazuki-onishi.github.io/kyohari/cover_v2.jpg"/>
@@ -28,7 +28,7 @@
     <item>
       <title>#2 居酒屋でフライドポテトを頼むやつが許せない</title>
       <description><![CDATA[居酒屋でフライドポテトを頼む友達に、物申す回。大学の自転車ルール、マンガミュージアムで知った漫画と海賊版の話、旅先で野犬に追いかけられた話、行ってみたい国まで。話はあちこちに飛びますが、それも込みで楽しんでください。<br><br>0:00 オープニング<br>0:21 居酒屋でフライドポテトを頼むやつが許せない<br>6:15 突然の電話と、英語<br>10:00 大学の自転車ルールに物申す<br>13:12 カードゲームのバイトと大会の話<br>14:45 SNSとショート動画の作戦会議<br>19:53 PHPとジェトロの話<br>21:47 今日の反省会<br>22:45 王将と中華<br>24:45 マンガミュージアムに行った話<br>26:45 海賊版が日本の漫画を広めた？<br>28:45 好きな漫画の話<br>31:45 歩くのが速い話、言葉の使い方の話<br>34:15 旅先で野犬に追いかけられた話<br>38:45 家族旅行と山口県<br>42:45 映画のロケの裏話<br>43:45 行ってみたい国、韓国の話<br>47:58 ヨーロッパで一番良かった街<br>49:09 エンディング]]></description>
-      <enclosure url="https://kazuki-onishi.github.io/kyohari/episodes/ep2.mp3" length="35755782" type="audio/mpeg"/>
+      <enclosure url="https://kazuki-onishi.github.io/kyohari/episodes/ep2.mp3" length="35755786" type="audio/mpeg"/>
       <guid isPermaLink="false">onishi-radio-ep2</guid>
       <pubDate>Mon, 26 Oct 2026 12:03:38 +0900</pubDate>
       <itunes:duration>2976</itunes:duration>
@@ -39,8 +39,8 @@
 
     <item>
       <title>#1 俺って何者？</title>
-      <description><![CDATA[ハリウッドスターを目指す京大院生が、友達とポッドキャストを始めました。初回は、そもそもこれはどんなラジオなのか、ポッドキャストで世界を取るってどういうことなのか。そして、本当にハリウッドスターになれるのか。ゆるく、でも本気で話しています。<br><br>0:00 オープニング<br>0:15 これはどんなラジオ？<br>1:19 ポッドキャストで世界を取るって何？<br>1:40 コテンラジオの話<br>4:19 斜め270度考察と「常識」のズレ<br>5:36 有名になりたい気持ち<br>9:37 ラジオが好きな理由<br>11:23 ハリウッドスターになれるのか問題<br>16:49 ネットの海に瓶を流す<br>17:35 前回の収録とカードゲーム<br>19:15 野球とサッカーの話<br>22:24 人は経験した世界でしか感じ取れない<br>22:41 反省会と本の話<br>27:38 スマホに会話を聞かれてる？<br>28:07 次回と、これからやりたいこと<br>31:41 エンディング]]></description>
-      <enclosure url="https://kazuki-onishi.github.io/kyohari/episodes/ep1.mp3" length="23065257" type="audio/mpeg"/>
+      <description><![CDATA[ハリウッドスターを目指す京大院生・おおにしかずきが、友達とポッドキャストを始めました。初回は、そもそもこれはどんなラジオなのか、ポッドキャストで世界を取るってどういうことなのか。そして、本当にハリウッドスターになれるのか。ゆるく、でも本気で話しています。<br><br>0:00 オープニング<br>0:15 これはどんなラジオ？<br>1:19 ポッドキャストで世界を取るって何？<br>1:40 コテンラジオの話<br>4:19 斜め270度考察と「常識」のズレ<br>5:36 有名になりたい気持ち<br>9:37 ラジオが好きな理由<br>11:23 ハリウッドスターになれるのか問題<br>16:49 ネットの海に瓶を流す<br>17:35 前回の収録とカードゲーム<br>19:15 野球とサッカーの話<br>22:24 人は経験した世界でしか感じ取れない<br>22:41 反省会と本の話<br>27:38 スマホに会話を聞かれてる？<br>28:07 次回と、これからやりたいこと<br>31:41 エンディング]]></description>
+      <enclosure url="https://kazuki-onishi.github.io/kyohari/episodes/ep1.mp3" length="23065261" type="audio/mpeg"/>
       <guid isPermaLink="false">onishi-radio-ep1</guid>
       <pubDate>Mon, 26 Oct 2026 12:02:38 +0900</pubDate>
       <itunes:duration>1918</itunes:duration>
