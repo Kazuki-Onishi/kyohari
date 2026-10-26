@@ -6,7 +6,7 @@
   <channel>
     <title>京大院生、ハリウッドスターへの道</title>
     <link>https://kazuki-onishi.github.io/kyohari/</link>
-    <image><url>https://kazuki-onishi.github.io/kyohari/cover.jpg</url><title>京大院生、ハリウッドスターへの道</title><link>https://kazuki-onishi.github.io/kyohari/</link></image>
+    <image><url>https://kazuki-onishi.github.io/kyohari/cover_v2.jpg</url><title>京大院生、ハリウッドスターへの道</title><link>https://kazuki-onishi.github.io/kyohari/</link></image>
     <atom:link href="https://kazuki-onishi.github.io/kyohari/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>© 2026 大西一輝</copyright>
@@ -17,7 +17,7 @@
       <itunes:name>大西一輝</itunes:name>
       <itunes:email>kyohari.radio@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://kazuki-onishi.github.io/kyohari/cover.jpg"/>
+    <itunes:image href="https://kazuki-onishi.github.io/kyohari/cover_v2.jpg"/>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Personal Journals"/>
     </itunes:category>
